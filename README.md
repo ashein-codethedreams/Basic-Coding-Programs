@@ -1,8 +1,12 @@
-### Basic-Coding-Programs
+# Basic-Coding-Programs
 
-A collection of basic programming examples in Python, Java, C++, JavaScript, and C.
+A collection of basic programming examples in Python, Java, C++, JavaScript, C and SQL Queries.
 
-# Triangle Patterns in Java
+# Theories
+
+Also included some important coding theories.
+
+### Triangle Patterns in Java
 
 Explanation:
 
